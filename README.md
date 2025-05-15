@@ -48,10 +48,15 @@ Folder Structure
 
 .
 ├── TrainingImage/             # Captured face images
+
 ├── TrainingImageLabel/        # Trained model data
+
 ├── StudentDetails/            # CSV files with user details
+
 ├── Attendance/                # Attendance records
+
 ├── haarcascade_frontalface_default.xml # Haar Cascade file for face detection
+
 └── main.py                    # Main application file
 
 How to Use
@@ -60,7 +65,7 @@ Run the application using the command:
 
 python main.py
 
-Use the 'Take Images' button to capture face data for a new user.
+Use the 'Take Images' button to capture face data for a new user.      
 
 Save the profile after capturing images.
 
