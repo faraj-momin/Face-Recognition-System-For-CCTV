@@ -32,9 +32,6 @@ Pandas
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/username/face-recognition-cctv.git
 
 Install the required libraries:
 
